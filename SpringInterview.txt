@@ -1,0 +1,12 @@
+1. Advantages of Spring Data JPA.
+2. How to do Spring Transactional, what are all the attribute we can to pass inside @Transactional.
+3. Service discovery design pattern.
+4. How JWT token will be authorized in order to access any resource (Explain about Interceptors).
+5. How to change spring application property directly to pod.
+6. How application properties will be picked by kubernates while deployment where it will be configured.
+7. How to do redis caching with multiple parameter.
+
+8. In spring webflux how to wait to get the response if we have two sync call.
+9. How to do retries inside webclient or webflux.
+10. How we will scale kafka(How kafka we will be scaled)
+11. Micro-service design patterns which we have used inside the project.
