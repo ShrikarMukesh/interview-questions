@@ -1,0 +1,8 @@
+Spring Boot,
+Spring Data JPA
+Spring Transactional
+Spring Cloud
+Spring redis
+
+Apache kafka
+JWT Outh2
