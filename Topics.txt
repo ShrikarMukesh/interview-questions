@@ -1,3 +1,9 @@
+Core Java
+-- OOPS Concepts
+-- Collection
+-- Exception Handling
+-- Multithreading
+
 Spring Boot,
 Spring Data JPA
 Spring Transactional
