@@ -1,16 +1,11 @@
-Perfect 👍 Let's kick off your **Java Multithreading Mastery (Week 1)** — starting from **absolute basics** and gradually building up to advanced concepts.
-
-You’ll write small hands-on code every day. Each concept is tied to **Java 7+ fundamentals**, so you’ll have a rock-solid base before moving to `ExecutorService`, `CompletableFuture`, etc.
-
+---
 ---
 
 ## 🗓️ **WEEK 1: Java Thread Basics**
 
 ### 🎯 **Goal:**
 
-Understand what a thread is, how to create and control it, and learn synchronization fundamentals.
-
----
+## Understand what a thread is, how to create and control it, and learn synchronization fundamentals.
 
 ## 🧩 **Day 1 — Introduction to Threads**
 

@@ -1,4 +1,4 @@
-Perfect 😎 — now we’re getting into the **real power of modern Java (8 → 17)**: **asynchronous and reactive programming** with `CompletableFuture`, parallel streams, and functional-style concurrency.
+**real power of modern Java (8 → 17)**: **asynchronous and reactive programming** with `CompletableFuture`, parallel streams, and functional-style concurrency.
 
 By the end of **Week 3**, you’ll be able to build **non-blocking, async microservice-style workflows** — something that’s used in _real-world banking, e-commerce, and distributed systems_.
 

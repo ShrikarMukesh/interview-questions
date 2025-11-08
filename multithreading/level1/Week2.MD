@@ -1,6 +1,4 @@
-Awesome 🔥 — you’ve now mastered **Week 1: Core Threading Fundamentals**, which means you already understand how threads behave and how to synchronize them safely.
-
-Now it’s time for **⚙️ Week 2 — Java Concurrency Utilities & Executors Framework (Java 7 → 17)**
+**⚙️ Week 2 — Java Concurrency Utilities & Executors Framework (Java 7 → 17)**
 This is where **real-world concurrency** begins — moving from manual thread management to powerful, production-ready APIs.
 
 ---

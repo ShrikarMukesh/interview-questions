@@ -1,11 +1,5 @@
-Perfect 👏 — learning **Java Multithreading** from scratch up to advanced levels (covering Java 7 → Java 17) is one of the best investments you can make as a Java developer.
-
-Let’s create a **structured roadmap** with **topics, examples, and progression** that takes you from the fundamentals to mastery, aligned with modern Java (7–17).
-
 ---
-
 ## 🧭 Learning Roadmap — Java Multithreading (Java 7 → Java 17)
-
 ---
 
 ### **🪜 Stage 1: Basics — The Foundation (Java 7 and earlier concepts)**
