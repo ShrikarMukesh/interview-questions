@@ -1,3 +1,6 @@
 1. What is meta space?
 2. What is zero down time ?
 3. How Java Execution will work?
+4. If 1 million records after indexing what will happen ?? where cluse or primary key 
+5. How to do thread dump analysis when we have notice using actuator?
+6. In kubernetes how 
