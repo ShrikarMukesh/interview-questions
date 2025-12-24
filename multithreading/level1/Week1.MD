@@ -1,13 +1,7 @@
 ---
 ---
 
-## 🗓️ **WEEK 1: Java Thread Basics**
-
-### 🎯 **Goal:**
-
 ## Understand what a thread is, how to create and control it, and learn synchronization fundamentals.
-
-## 🧩 **Day 1 — Introduction to Threads**
 
 ### 🧠 Concepts:
 
@@ -48,8 +42,6 @@ Create two threads — one printing numbers 1–5, another printing letters A–
 
 ---
 
-## 🧩 **Day 2 — Creating Threads with Runnable Interface**
-
 ### 🧠 Concepts:
 
 - Why prefer `Runnable` over extending `Thread`
@@ -88,8 +80,6 @@ public class RunnableExample {
 Create 3 threads using `Runnable` — each calculating the factorial of a different number.
 
 ---
-
-## 🧩 **Day 3 — Thread Lifecycle & Control Methods**
 
 ### 🧠 Concepts:
 
